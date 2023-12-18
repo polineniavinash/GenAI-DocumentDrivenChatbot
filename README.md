@@ -8,7 +8,7 @@ GenAI-DocumentDrivenChatbot is an advanced AI-driven chat interface that dynamic
 - Support for PDF, DOCX, and TXT file formats.
 - Integration with OpenAI's powerful language models for accurate, context-aware responses.
 - Multi-tab functionality to handle different document contexts simultaneously.
-
+![image1](https://github.com/polineniavinash/GenAI-DocumentDrivenChatbot/blob/master/image1.png)
 
 
 ## How to Use
