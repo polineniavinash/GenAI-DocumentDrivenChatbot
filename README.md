@@ -25,9 +25,6 @@ Note: Chat1 only answers from the document related to that chat, same as Chat2-1
 
 Note: Database used - https://www.trychroma.com/
 
-## Setup and Installation
-Detailed instructions for setting up and running the project can be found in the `Installation.md` file.
-
 ## Contributions
 Your contributions make this project better! Feel free to fork, submit issues, or open pull requests.
 
