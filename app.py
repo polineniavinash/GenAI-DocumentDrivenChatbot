@@ -4,7 +4,6 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
-from streamlit_chat import message
 from dotenv import load_dotenv, find_dotenv
 from tempfile import NamedTemporaryFile
 
