@@ -19,7 +19,7 @@ Note: Chat1 only answers from the document related to that chat, same as Chat2-1
 
 ## How to Use
 1. Upload a document (PDF, DOCX, TXT) to the specific chat tab.
-2. Set the chunk size and 'k' value as needed.
+2. Set the chunk size.
 3. Type your question in the chat area and hit 'Send' to receive context-based answers.
 4. Navigate through multiple tabs to handle different documents independently.
 
