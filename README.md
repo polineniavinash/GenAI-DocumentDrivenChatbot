@@ -8,14 +8,22 @@ GenAI-DocumentDrivenChatbot is an advanced AI-driven chat interface that dynamic
 - Support for PDF, DOCX, and TXT file formats.
 - Integration with OpenAI's powerful language models for accurate, context-aware responses.
 - Multi-tab functionality to handle different document contexts simultaneously.
+
+## Chat-1
 ![image1](https://github.com/polineniavinash/GenAI-DocumentDrivenChatbot/blob/master/image1.png)
 
+## Chat-2
+![image2](https://github.com/polineniavinash/GenAI-DocumentDrivenChatbot/blob/master/image2.png)
+
+Note: Chat1 only answers from the document related to that chat, same as Chat2-10, And, No chat can answer any basic question("What is a book") if it not mentioned in the document uploaded for vector embedding.
 
 ## How to Use
 1. Upload a document (PDF, DOCX, TXT) to the specific chat tab.
 2. Set the chunk size and 'k' value as needed.
 3. Type your question in the chat area and hit 'Send' to receive context-based answers.
 4. Navigate through multiple tabs to handle different documents independently.
+
+Note: Database used - https://www.trychroma.com/
 
 ## Setup and Installation
 Detailed instructions for setting up and running the project can be found in the `Installation.md` file.
